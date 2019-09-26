@@ -4,17 +4,19 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 public class Sort {
-    public static int[] sortNumberic(int[] arr) {
+
+    public static int[] sortNumberic(final int[] arr) {
         if (arr == null) {
             return null;
         }
 
+        int tmp;
         for (int i = arr.length - 1; i >= 0; i--) {
             for (int j = 0; j < i; j++) {
-                if (arr[j] > arr[j+1]) {
-                    int tmp = arr[j];
-                    arr[j] = arr[j+1];
-                    arr[j+1] = tmp;
+                if (arr[j] > arr[j + 1]) {
+                    tmp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = tmp;
                 }
             }
         }
@@ -22,16 +24,17 @@ public class Sort {
         return arr;
     }
 
-    public static String[] sortString(String[] arr) {
+    public static String[] sortString(final String[] arr) {
         if (arr == null)
             return null;
 
+        String tmp;
         for (int i = arr.length - 1; i >= 0; i--) {
             for (int j = 0; j < i; j++) {
-                if (arr[j].length() > arr[j+1].length()) {
-                    String tmp = arr[j];
-                    arr[j] = arr[j+1];
-                    arr[j+1] = tmp;
+                if (arr[j].length() > arr[j + 1].length()) {
+                    tmp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = tmp;
                 }
             }
         }
@@ -46,7 +49,7 @@ public class Sort {
 
     @Test
     void testEmptyArrayNumber() {
-        assertArrayEquals(new int[]{,}, sortNumberic(new int[]{,}), "Must return empty array");
+        assertArrayEquals(new int[]{}, sortNumberic(new int[]{}), "Must return empty array");
     }
 
     @Test
@@ -54,6 +57,7 @@ public class Sort {
         assertArrayEquals(new int[]{0}, sortNumberic(new int[]{0}), "Must return array sorted");
         assertArrayEquals(new int[]{-1, 0, 1}, sortNumberic(new int[]{0, -1, 1}), "Must return array sorted");
         assertArrayEquals(new int[]{1, 2, 3, 4, 5}, sortNumberic(new int[]{5, 3, 1, 4, 2}), "Must return array sorted");
+        assertArrayEquals(new int[]{1, 2, 3, 4, 5}, sortNumberic(new int[]{1, 2, 3, 4, 5}), "Must return array sorted");
     }
 
     @Test
