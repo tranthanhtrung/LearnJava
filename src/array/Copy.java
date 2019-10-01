@@ -11,7 +11,6 @@ public class Copy {
         }
 
         int[] result = new int[arr.length];
-
         for (int i = 0; i < arr.length; i++) {
             result[i] = arr[i];
         }
@@ -34,5 +33,11 @@ public class Copy {
         assertArrayEquals(new int[]{2}, copy(new int[]{2}), "Test random array");
         assertArrayEquals(new int[]{2,2,-3,4}, copy(new int[]{2,2,-3,4}), "Test random array");
         assertArrayEquals(new int[]{1,2,3,4,5}, copy(new int[]{1,2,3,4,5}), "Test random array");
+    }
+
+    @Test
+    void testMutableArray() {
+        int[] input = new int[]{1,2,3,4,5};
+        assertNotEquals(input, copy(input), "Test mutable");
     }
 }

@@ -5,18 +5,17 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class Average {
 
-    public static float average (final int[] arr) {
-        int sum = 0;
-
+    public static double average (final int[] arr) {
         if (arr == null || arr.length == 0) {
             return 0;
         }
 
+        double sum = 0;
         for (int i = 0; i < arr.length; i++) {
             sum += arr[i];
         }
 
-        return (float)sum/arr.length;
+        return sum/arr.length;
     }
 
     @Test

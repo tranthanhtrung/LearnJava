@@ -10,6 +10,7 @@ public class Reverse {
             return null;
         }
 
+        int[] result = new int[arr.length];
         int tmp;
         for (int i = 0; i < arr.length/2; i++) {
             tmp = arr[i];
@@ -17,7 +18,7 @@ public class Reverse {
             arr[arr.length - 1 - i] = tmp;
         }
 
-        return arr;
+        return result;
     }
 
     @Test

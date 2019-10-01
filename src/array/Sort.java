@@ -10,36 +10,38 @@ public class Sort {
             return null;
         }
 
+        int[] result = arr.clone();
         int tmp;
-        for (int i = arr.length - 1; i >= 0; i--) {
+        for (int i = result.length - 1; i >= 0; i--) {
             for (int j = 0; j < i; j++) {
-                if (arr[j] > arr[j + 1]) {
-                    tmp = arr[j];
-                    arr[j] = arr[j + 1];
-                    arr[j + 1] = tmp;
+                if (result[j] > result[j + 1]) {
+                    tmp = result[j];
+                    result[j] = result[j + 1];
+                    result[j + 1] = tmp;
                 }
             }
         }
 
-        return arr;
+        return result;
     }
 
     public static String[] sortString(final String[] arr) {
         if (arr == null)
             return null;
 
+        String[] result = arr.clone();
         String tmp;
-        for (int i = arr.length - 1; i >= 0; i--) {
+        for (int i = result.length - 1; i >= 0; i--) {
             for (int j = 0; j < i; j++) {
-                if (arr[j].length() > arr[j + 1].length()) {
-                    tmp = arr[j];
-                    arr[j] = arr[j + 1];
-                    arr[j + 1] = tmp;
+                if (result[j].length() > result[j + 1].length()) {
+                    tmp = result[j];
+                    result[j] = result[j + 1];
+                    result[j + 1] = tmp;
                 }
             }
         }
 
-        return arr;
+        return result;
     }
 
     @Test
