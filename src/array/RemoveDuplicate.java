@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Arrays;
 
 public class RemoveDuplicate {
+
     public static int[] removeDuplicate(final int[] arr) {
         if (arr == null || arr.length == 0) {
             return arr;

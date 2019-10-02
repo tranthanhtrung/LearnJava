@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8c1d897-6a5f-43a7-8314-6da6816d200c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/Common.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/AddMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/PairElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/SecondLatest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/SecondSmallest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/array/Average.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/array/Average.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/array/Copy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/array/Copy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/array/Duplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/array/Duplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/array/IndexOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/array/IndexOf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/array/LastIndexOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/array/LastIndexOf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/array/Max.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/array/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/array/Reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/array/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/array/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/array/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/array/Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Copy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/IndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/IndexOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/LastIndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/LastIndexOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/MinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/RemoveDuplicate.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,24 +19,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/array/RemoveDuplicate.java">
+        <entry file="file://$PROJECT_DIR$/src/array/PairElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/Duplicate.java">
+        <entry file="file://$PROJECT_DIR$/src/array/AddMatrices.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-363">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="21" />
+            <state relative-caret-position="566">
+              <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +84,10 @@
         <option value="$PROJECT_DIR$/src/array/Insert.java" />
         <option value="$PROJECT_DIR$/src/array/Common.java" />
         <option value="$PROJECT_DIR$/src/array/RemoveDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/array/SecondLatest.java" />
+        <option value="$PROJECT_DIR$/src/array/SecondSmallest.java" />
+        <option value="$PROJECT_DIR$/src/array/AddMatrices.java" />
+        <option value="$PROJECT_DIR$/src/array/PairElement.java" />
       </list>
     </option>
   </component>
@@ -109,7 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -137,13 +129,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569914721772" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569991103157" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -161,8 +154,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RemoveDuplicate">
-    <configuration name="Common" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PairElement">
+    <configuration name="AddMatrices" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -171,12 +164,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.Common" />
+      <option name="MAIN_CLASS_NAME" value="array.AddMatrices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Common.testRandomArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddMatrices.testRandomArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -185,14 +178,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.Common" />
+      <option name="MAIN_CLASS_NAME" value="array.AddMatrices" />
       <option name="METHOD_NAME" value="testRandomArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PairElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -201,12 +194,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.Insert" />
+      <option name="MAIN_CLASS_NAME" value="array.PairElement" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SecondLatest.testRandomArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -215,41 +208,41 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.RemoveDuplicate" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicate.testRandomArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.RemoveDuplicate" />
+      <option name="MAIN_CLASS_NAME" value="array.SecondLatest" />
       <option name="METHOD_NAME" value="testRandomArray" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondSmallest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="array" />
+      <option name="MAIN_CLASS_NAME" value="array.SecondSmallest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Insert" />
-      <item itemvalue="JUnit.Common" />
-      <item itemvalue="JUnit.Common.testRandomArray" />
-      <item itemvalue="JUnit.RemoveDuplicate" />
-      <item itemvalue="JUnit.RemoveDuplicate.testRandomArray" />
+      <item itemvalue="JUnit.SecondLatest.testRandomArray" />
+      <item itemvalue="JUnit.AddMatrices" />
+      <item itemvalue="JUnit.AddMatrices.testRandomArray" />
+      <item itemvalue="JUnit.SecondSmallest" />
+      <item itemvalue="JUnit.PairElement" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RemoveDuplicate" />
-        <item itemvalue="JUnit.RemoveDuplicate.testRandomArray" />
-        <item itemvalue="JUnit.Common" />
-        <item itemvalue="JUnit.Common.testRandomArray" />
-        <item itemvalue="JUnit.Insert" />
+        <item itemvalue="JUnit.PairElement" />
+        <item itemvalue="JUnit.AddMatrices.testRandomArray" />
+        <item itemvalue="JUnit.SecondSmallest" />
+        <item itemvalue="JUnit.SecondLatest.testRandomArray" />
+        <item itemvalue="JUnit.AddMatrices" />
       </list>
     </recent_temporary>
   </component>
@@ -267,35 +260,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Common - 2019.10.01 at 11h 38m 51s.xml">
-      <configuration name="Common" configurationId="JUnit" />
+    <history-entry file="AddMatrices_testRandomArray - 2019.10.01 at 15h 53m 01s.xml">
+      <configuration name="AddMatrices.testRandomArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Common - 2019.10.01 at 11h 40m 43s.xml">
-      <configuration name="Common" configurationId="JUnit" />
+    <history-entry file="AddMatrices - 2019.10.01 at 15h 54m 27s.xml">
+      <configuration name="AddMatrices" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Common - 2019.10.01 at 11h 44m 22s.xml">
-      <configuration name="Common" configurationId="JUnit" />
+    <history-entry file="AddMatrices - 2019.10.01 at 15h 59m 41s.xml">
+      <configuration name="AddMatrices" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Common_testRandomArray - 2019.10.01 at 11h 45m 00s.xml">
-      <configuration name="Common.testRandomArray" configurationId="JUnit" />
+    <history-entry file="AddMatrices - 2019.10.01 at 16h 03m 09s.xml">
+      <configuration name="AddMatrices" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Common_testRandomArray - 2019.10.01 at 11h 47m 13s.xml">
-      <configuration name="Common.testRandomArray" configurationId="JUnit" />
+    <history-entry file="AddMatrices_testRandomArray - 2019.10.01 at 16h 03m 25s.xml">
+      <configuration name="AddMatrices.testRandomArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Common_testRandomArray - 2019.10.01 at 11h 49m 59s.xml">
-      <configuration name="Common.testRandomArray" configurationId="JUnit" />
+    <history-entry file="SecondLatest_testRandomArray - 2019.10.01 at 16h 15m 10s.xml">
+      <configuration name="SecondLatest.testRandomArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Common_testRandomArray - 2019.10.01 at 11h 50m 12s.xml">
-      <configuration name="Common.testRandomArray" configurationId="JUnit" />
+    <history-entry file="SecondSmallest - 2019.10.01 at 16h 16m 24s.xml">
+      <configuration name="SecondSmallest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Common - 2019.10.01 at 11h 53m 43s.xml">
-      <configuration name="Common" configurationId="JUnit" />
+    <history-entry file="AddMatrices_testRandomArray - 2019.10.01 at 16h 46m 01s.xml">
+      <configuration name="AddMatrices.testRandomArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicate - 2019.10.01 at 14h 16m 10s.xml">
-      <configuration name="RemoveDuplicate" configurationId="JUnit" />
+    <history-entry file="AddMatrices_testRandomArray - 2019.10.01 at 16h 46m 17s.xml">
+      <configuration name="AddMatrices.testRandomArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicate - 2019.10.01 at 14h 21m 48s.xml">
-      <configuration name="RemoveDuplicate" configurationId="JUnit" />
+    <history-entry file="PairElement - 2019.10.02 at 11h 09m 56s.xml">
+      <configuration name="PairElement" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -309,9 +302,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3104435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -320,12 +312,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -392,39 +384,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/LastIndexOf.java">
+    <entry file="file://$PROJECT_DIR$/src/array/Average.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/MinMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="113">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Sum.java">
+    <entry file="file://$PROJECT_DIR$/src/array/Common.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="15" />
+        <state relative-caret-position="-177">
+          <caret line="9" column="71" lean-forward="true" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -433,7 +406,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/Contains.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="136">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
@@ -448,43 +421,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Average.java">
+    <entry file="file://$PROJECT_DIR$/src/array/Duplicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="435">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/LastIndexOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/MinMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/IndexOf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1229">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="27" column="56" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Common.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="71" lean-forward="true" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/Insert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="1035">
           <caret line="71" column="96" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="96" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -502,21 +467,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Duplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/array/RemoveDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-363">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/RemoveDuplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/array/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        <state relative-caret-position="300">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/IndexOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/SecondSmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/SecondLatest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/AddMatrices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/PairElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
           </folding>
         </state>
       </provider>
