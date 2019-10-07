@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8c1d897-6a5f-43a7-8314-6da6816d200c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/AddMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/PairElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SecondLatest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SecondSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/MissNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/NonZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/RemoveDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/array/IndexOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/array/IndexOf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/IndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/IndexOf.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,27 +20,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/array/PairElement.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/ArrayEquals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            <state relative-caret-position="604">
+              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/AddMatrices.java">
+        <entry file="file://$PROJECT_DIR$/src/array/NonZero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
+            <state relative-caret-position="300">
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="156" column="18" selection-start-line="156" selection-start-column="18" selection-end-line="156" selection-end-column="18" />
+              <folding>
+                <element signature="e#4133#4134#0" expanded="true" />
+                <element signature="e#4157#4158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/MissNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="67" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,11 +95,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/MyArray.java" />
         <option value="$PROJECT_DIR$/src/NewTest.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/array/Contains.java" />
         <option value="$PROJECT_DIR$/src/array/Max.java" />
         <option value="$PROJECT_DIR$/src/array/Remove.java" />
-        <option value="$PROJECT_DIR$/src/array/IndexOf.java" />
         <option value="$PROJECT_DIR$/src/array/Sum.java" />
         <option value="$PROJECT_DIR$/src/array/Average.java" />
         <option value="$PROJECT_DIR$/src/array/MinMax.java" />
@@ -82,19 +107,24 @@
         <option value="$PROJECT_DIR$/src/array/Sort.java" />
         <option value="$PROJECT_DIR$/src/array/LastIndexOf.java" />
         <option value="$PROJECT_DIR$/src/array/Insert.java" />
-        <option value="$PROJECT_DIR$/src/array/Common.java" />
         <option value="$PROJECT_DIR$/src/array/RemoveDuplicate.java" />
         <option value="$PROJECT_DIR$/src/array/SecondLatest.java" />
         <option value="$PROJECT_DIR$/src/array/SecondSmallest.java" />
         <option value="$PROJECT_DIR$/src/array/AddMatrices.java" />
         <option value="$PROJECT_DIR$/src/array/PairElement.java" />
+        <option value="$PROJECT_DIR$/src/array/AssertArrayEquals.java" />
+        <option value="$PROJECT_DIR$/src/array/ArrayEquals.java" />
+        <option value="$PROJECT_DIR$/src/array/MissNumber.java" />
+        <option value="$PROJECT_DIR$/src/array/IndexOf.java" />
+        <option value="$PROJECT_DIR$/src/array/Common.java" />
+        <option value="$PROJECT_DIR$/src/array/NonZero.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="824" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -136,7 +166,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569991103157" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570433443709" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -154,8 +184,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PairElement">
-    <configuration name="AddMatrices" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.NonZero">
+    <configuration name="ArrayEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -164,12 +194,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.AddMatrices" />
+      <option name="MAIN_CLASS_NAME" value="array.ArrayEquals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddMatrices.testRandomArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Common.testRandomArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -178,14 +208,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.AddMatrices" />
+      <option name="MAIN_CLASS_NAME" value="array.Common" />
       <option name="METHOD_NAME" value="testRandomArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IndexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -194,12 +224,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.PairElement" />
+      <option name="MAIN_CLASS_NAME" value="array.IndexOf" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLatest.testRandomArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IndexOf.testArrayStringOneElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -208,14 +238,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.SecondLatest" />
-      <option name="METHOD_NAME" value="testRandomArray" />
+      <option name="MAIN_CLASS_NAME" value="array.IndexOf" />
+      <option name="METHOD_NAME" value="testArrayStringOneElement" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondSmallest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NonZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -224,25 +254,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.SecondSmallest" />
+      <option name="MAIN_CLASS_NAME" value="array.NonZero" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SecondLatest.testRandomArray" />
-      <item itemvalue="JUnit.AddMatrices" />
-      <item itemvalue="JUnit.AddMatrices.testRandomArray" />
-      <item itemvalue="JUnit.SecondSmallest" />
-      <item itemvalue="JUnit.PairElement" />
+      <item itemvalue="JUnit.Common.testRandomArray" />
+      <item itemvalue="JUnit.IndexOf.testArrayStringOneElement" />
+      <item itemvalue="JUnit.IndexOf" />
+      <item itemvalue="JUnit.ArrayEquals" />
+      <item itemvalue="JUnit.NonZero" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PairElement" />
-        <item itemvalue="JUnit.AddMatrices.testRandomArray" />
-        <item itemvalue="JUnit.SecondSmallest" />
-        <item itemvalue="JUnit.SecondLatest.testRandomArray" />
-        <item itemvalue="JUnit.AddMatrices" />
+        <item itemvalue="JUnit.NonZero" />
+        <item itemvalue="JUnit.ArrayEquals" />
+        <item itemvalue="JUnit.Common.testRandomArray" />
+        <item itemvalue="JUnit.IndexOf" />
+        <item itemvalue="JUnit.IndexOf.testArrayStringOneElement" />
       </list>
     </recent_temporary>
   </component>
@@ -260,35 +290,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddMatrices_testRandomArray - 2019.10.01 at 15h 53m 01s.xml">
-      <configuration name="AddMatrices.testRandomArray" configurationId="JUnit" />
+    <history-entry file="Common - 2019.10.02 at 14h 48m 51s.xml">
+      <configuration name="Common" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddMatrices - 2019.10.01 at 15h 54m 27s.xml">
-      <configuration name="AddMatrices" configurationId="JUnit" />
+    <history-entry file="Common_testRandomArray - 2019.10.02 at 14h 49m 37s.xml">
+      <configuration name="Common.testRandomArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddMatrices - 2019.10.01 at 15h 59m 41s.xml">
-      <configuration name="AddMatrices" configurationId="JUnit" />
+    <history-entry file="Common_testRandomArray - 2019.10.02 at 14h 49m 45s.xml">
+      <configuration name="Common.testRandomArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddMatrices - 2019.10.01 at 16h 03m 09s.xml">
-      <configuration name="AddMatrices" configurationId="JUnit" />
+    <history-entry file="IndexOf_testArrayStringOneElement - 2019.10.02 at 14h 55m 08s.xml">
+      <configuration name="IndexOf.testArrayStringOneElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddMatrices_testRandomArray - 2019.10.01 at 16h 03m 25s.xml">
-      <configuration name="AddMatrices.testRandomArray" configurationId="JUnit" />
+    <history-entry file="IndexOf - 2019.10.02 at 14h 56m 10s.xml">
+      <configuration name="IndexOf" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondLatest_testRandomArray - 2019.10.01 at 16h 15m 10s.xml">
-      <configuration name="SecondLatest.testRandomArray" configurationId="JUnit" />
+    <history-entry file="Common_testRandomArray - 2019.10.02 at 14h 57m 57s.xml">
+      <configuration name="Common.testRandomArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondSmallest - 2019.10.01 at 16h 16m 24s.xml">
-      <configuration name="SecondSmallest" configurationId="JUnit" />
+    <history-entry file="ArrayEquals - 2019.10.02 at 15h 24m 41s.xml">
+      <configuration name="ArrayEquals" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddMatrices_testRandomArray - 2019.10.01 at 16h 46m 01s.xml">
-      <configuration name="AddMatrices.testRandomArray" configurationId="JUnit" />
+    <history-entry file="NonZero - 2019.10.07 at 14h 09m 39s.xml">
+      <configuration name="NonZero" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddMatrices_testRandomArray - 2019.10.01 at 16h 46m 17s.xml">
-      <configuration name="AddMatrices.testRandomArray" configurationId="JUnit" />
+    <history-entry file="NonZero - 2019.10.07 at 14h 09m 56s.xml">
+      <configuration name="NonZero" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PairElement - 2019.10.02 at 11h 09m 56s.xml">
-      <configuration name="PairElement" configurationId="JUnit" />
+    <history-entry file="NonZero - 2019.10.07 at 14h 11m 54s.xml">
+      <configuration name="NonZero" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -302,8 +332,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32331902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -312,12 +343,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -375,33 +406,6 @@
     <entry file="file://$PROJECT_DIR$/out/production/LearnJava/array/Contains.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-326" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="147" column="23" lean-forward="true" selection-start-line="137" selection-start-column="8" selection-end-line="147" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Average.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Common.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-177">
-          <caret line="9" column="71" lean-forward="true" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/Contains.java">
@@ -504,33 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/IndexOf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/SecondSmallest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/SecondLatest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/AddMatrices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="566">
@@ -541,9 +518,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/Average.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/SecondLatest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/SecondSmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/PairElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="495">
           <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -551,6 +558,68 @@
             <element signature="e#702#703#0" expanded="true" />
             <element signature="e#741#742#0" expanded="true" />
             <element signature="e#836#837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="70" column="2" selection-start-line="66" selection-end-line="70" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/IndexOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/MissNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="67" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/ArrayEquals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/NonZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="156" column="18" selection-start-line="156" selection-start-column="18" selection-end-line="156" selection-end-column="18" />
+          <folding>
+            <element signature="e#4133#4134#0" expanded="true" />
+            <element signature="e#4157#4158#0" expanded="true" />
           </folding>
         </state>
       </provider>

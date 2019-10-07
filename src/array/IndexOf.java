@@ -25,6 +25,9 @@ public class IndexOf {
         }
 
         for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == null) {
+                continue;
+            }
             if (arr[i].equals(value)) {
                 return i;
             }
@@ -85,7 +88,7 @@ public class IndexOf {
         assertEquals(-1, stringIndexOf("a", new String[]{""}),  "Test array string one element");
         assertEquals(-1, stringIndexOf("trung", new String[]{""}),  "Test array string one element");
         assertEquals(-1, stringIndexOf("", new String[]{"trung"}),  "Test array string one element");
-        assertEquals(-1, stringIndexOf(null, new String[]{"trung"}),  "Test array string one element");
+        assertEquals(-1, stringIndexOf(null, new String[]{"trung", null, ""}),  "Test array string one element");
         assertEquals(-1, stringIndexOf("a", new String[]{"trung"}), "Test array string one element");
         assertEquals(0, stringIndexOf("trung", new String[]{"trung"}), "Test array string one element");
     }

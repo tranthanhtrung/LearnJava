@@ -153,5 +153,8 @@ public class Main {
         return chessboard;
     }
 
+    public static String bigNumber(int n) {
+        return "";
+    }
 
 }

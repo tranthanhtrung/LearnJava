@@ -17,14 +17,9 @@ public class Common {
             if (a[i] == null) {
                 continue;
             }
-            for (int j = 0; j < b.length; j++) {
-                if (b[j] == null) {
-                    continue;
-                }
-                if (i == IndexOf.stringIndexOf(a[i], a) && a[i].equals(b[j])) {
-                    countCommon++;
-                    break;
-                }
+
+            if (i == IndexOf.stringIndexOf(a[i], a) && IndexOf.stringIndexOf(a[i],b) != -1) {
+                countCommon++;
             }
         }
 
@@ -33,20 +28,14 @@ public class Common {
         }
 
         String[] common = new String[countCommon];
-        int index = 0;
-        for (int i = 0; i < a.length; i++) {
+        for (int i = 0, index = 0; i < a.length; i++) {
             if (a[i] == null) {
                 continue;
             }
-            for (int j = 0; j < b.length; j++) {
-                if (b[j] == null) {
-                    continue;
-                }
-                if (i == IndexOf.stringIndexOf(a[i], a) && a[i].equals(b[j])) {
-                    common[index] = a[i];
-                    index++;
-                    break;
-                }
+
+            if (i == IndexOf.stringIndexOf(a[i], a) && IndexOf.stringIndexOf(a[i],b) != -1) {
+                common[index] = a[i];
+                index++;
             }
         }
 
